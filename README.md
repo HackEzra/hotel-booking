@@ -1,2 +1,3 @@
 # hotel-booking
-hotel booking project:)
+
+hotel booking project template. ``Still has Lorem Ipsum`` :)
